@@ -4,6 +4,10 @@
 <p align="center">Projeto Fullstack de um sistema para monitorar o alcance das metas de vendas. O sistema está integrado com um banco de dados e conta com envio automático de SMS e implantação do front-end e back-end na nuvem.</p>
 
 <h1 align="center">
+  <img alt="Imagem do projeto" src="./dsmeta.jpg" />
+</h1>
+
+<h1 align="center">
   <img alt="Gif da Página DS Meta" title="DS Meta" src="./paginaDsMeta.gif" />
 </h1>
  
